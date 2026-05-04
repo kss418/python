@@ -18,6 +18,12 @@ Scikit-learn의 `load_breast_cancer` 예제 데이터를 사용해서 유방암 
 
 Logistic Regression은 feature scale의 영향을 받는 선형 모델이므로, `area`처럼 값이 큰 feature와 `smoothness`처럼 값이 작은 feature를 비슷한 기준으로 맞추기 위해 `StandardScaler`를 사용합니다.
 
+## 실행 방법
+
+```bash
+python breast_cancer_classifier/breast_cancer_classifier.py
+```
+
 ## 코드 흐름
 
 1. breast cancer 데이터셋 로드
