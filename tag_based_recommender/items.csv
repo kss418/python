@@ -1,0 +1,9 @@
+item_id,title,category,tags,is_available
+1,Python 기초,programming,python|programming|beginner,True
+2,데이터 분석 입문,data,data|python|pandas|analysis,True
+3,SQL 실전,data,sql|database|data,True
+4,마케팅 전략,business,marketing|business|strategy,True
+5,머신러닝 입문,ai,machine-learning|python|data|beginner,True
+6,웹 개발 입문,web,html|css|javascript|beginner,True
+7,Django 백엔드,web,python|django|backend|web,True
+8,통계 기초,data,statistics|data|math|beginner,True
